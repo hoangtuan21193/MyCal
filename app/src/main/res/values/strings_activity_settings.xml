@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="pref_category_display">USER INTERFACE</string>
+    <string name="pref_category_general">GENERAL</string>
+
+    <string name="title_activity_settings">Setting</string>
+    <string name="pref_screen_color">Screen Color</string>
+    <string-array name="pref_screen_color_title">
+        <item>Green</item>
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="pref_screen_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="pref_max_input_number">Max Number Of Digits Input</string>
+
+    <string name="pref_language_title">Language</string>
+    <string-array name="pref_language_title">
+        <item>English</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

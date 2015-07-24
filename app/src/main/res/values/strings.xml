@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HoangTuan Calculator</string>
+
+    <string name="appTitle">Hoang Tuan Calculator!</string>
+    <string name="action_settings">Settings</string>
+    <string name="screenLine1"></string>
+    <string name="screenLine2">0</string>
+
+    <!-- Function-->
+    <string name="btMC">MC</string>
+    <string name="btMR">MR</string>
+    <string name="btMS">MS</string>
+    <string name="btMPlus">M+</string>
+    <string name="btMSub">M-</string>
+    <string name="btDel">←</string>
+    <string name="btCE">CE</string>
+    <string name="btC">C</string>
+    
+    <!-- Operator-->
+    <string name="btAddSub">±</string>
+    <string name="btSquareRoot">√</string>
+    <string name="btAdd">+</string>
+    <string name="btSub">-</string>
+    <string name="btMul">*</string>
+    <string name="btDiv">/</string>
+    <string name="btPercent">%</string>
+    <string name="bt1DivX">1/x</string>
+    <string name="btEqual">=</string>
+    
+    <!-- Number button-->
+    <string name="bt0">0</string>
+    <string name="bt1">1</string>
+    <string name="bt2">2</string>
+    <string name="bt3">3</string>
+    <string name="bt4">4</string>
+    <string name="bt5">5</string>
+    <string name="bt6">6</string>
+    <string name="bt7">7</string>
+    <string name="bt8">8</string>
+    <string name="bt9">9</string>
+    <string name="btDot">.</string>
+    
+
+
+</resources>

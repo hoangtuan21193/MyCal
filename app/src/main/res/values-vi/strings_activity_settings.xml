@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_display">GIAO DIỆN</string>
+    <string name="pref_category_general">CÀI ĐẶT CHUNG</string>
+
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="pref_screen_color">Màu màn hình</string>
+    <string-array name="pref_screen_color_title">
+        <item>Xanh lá cây</item>
+        <item>Đen</item>
+        <item>Trắng</item>
+    </string-array>
+
+    <string-array name="pref_screen_color_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="pref_max_input_number">Độ dài số tối đa có thể nhập</string>
+
+    <string name="pref_language_title">Ngôn ngữ</string>
+    <string-array name="pref_language_title">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
